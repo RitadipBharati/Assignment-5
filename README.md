@@ -1,2 +1,4 @@
 # Assignment-5
 ## 1. Solve the following equation to an accuracy of 10^−5 , starting from an initial guess interval [1.6, 2.4], log(x/2) − sin(5x/2) = 0. If the given interval does not bracket a root, numerically determine an interval that will. Use both Bisection and Regula-falsi method to solve the problem and compare them with a plot (f(xi) vs i) and a table showing convergence to a root xi against number of steps i.
+## 2. Make appropriate initial guesses (same interval for Bisection and Regula-falsi) and solve the following equation, −x − cos x = 0. Use all three methods Bisection, Regula-falsi and Newton-Raphson to solve it. For Newton-Raphson, use x=0.0 as initial guess. Compare all three methods to achieve the same accuracy as above in Q1.
+## 3. Find the roots (all real) of the following polynomial using the Laguerre’s and synthetic division method, P(x) = x^4 − 5x^2 + 4
