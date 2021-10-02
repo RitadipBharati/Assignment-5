@@ -1,1 +1,2 @@
 # Assignment-5
+## 1. Solve the following equation to an accuracy of 10^−5 , starting from an initial guess interval [1.6, 2.4], log(x/2) − sin(5x/2) = 0. If the given interval does not bracket a root, numerically determine an interval that will. Use both Bisection and Regula-falsi method to solve the problem and compare them with a plot (f(xi) vs i) and a table showing convergence to a root xi against number of steps i.
